@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c7ff67e-a1c1-443e-883f-5eb44d65ea0f" name="Changes" comment="Learning HTML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2026/01-Intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2026/01-Intro/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +37,14 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="8" />
+    <option name="cachedIndexableFilesCount" value="10" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -64,6 +66,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000011673" />
+      <entry key="MS500" value="1.0041090512516821" />
+      <entry key="S2" value="1.294430527014444" />
+      <entry key="S5" value="1.8566994396289838" />
+      <entry key="S10" value="2.288407325493773" />
+      <entry key="S30" value="2.7210635310673554" />
+      <entry key="S60" value="2.8544508810570814" />
+      <entry key="M2" value="2.925631124828445" />
+      <entry key="M5" value="2.9698604522308027" />
+      <entry key="M10" value="2.987458984203087" />
+      <entry key="M15" value="3.0331288365800417" />
+      <entry key="M30" value="3.715208453348746" />
+      <entry key="H1" value="5.937384997308729" />
+      <entry key="H2" value="8.938336989078874" />
+      <entry key="H4" value="11.441829772638584" />
+      <entry key="D1" value="14.316839530711967" />
+      <entry key="W1" value="14.899937755495289" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.009036626436760061" />
+      <entry key="MS500" value="0.3901227400868517" />
+      <entry key="S2" value="0.7903151667699971" />
+      <entry key="S5" value="0.9101649909949435" />
+      <entry key="S10" value="0.9540256762765578" />
+      <entry key="S30" value="0.9844341880954778" />
+      <entry key="S60" value="0.9921865691972844" />
+      <entry key="M2" value="0.9960856234266633" />
+      <entry key="M5" value="0.9984324563329064" />
+      <entry key="M10" value="0.999438363684147" />
+      <entry key="M15" value="1.0031487047646521" />
+      <entry key="M30" value="1.0603315425804503" />
+      <entry key="H1" value="1.2460256847799733" />
+      <entry key="H2" value="1.4960761581611455" />
+      <entry key="H4" value="1.7043404590625075" />
+      <entry key="D1" value="1.9432597217599248" />
+      <entry key="W1" value="1.991689959230235" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8766057265843913" />
+      <entry key="MS500" value="0.9968731359654301" />
+      <entry key="S2" value="1.5795191983533203" />
+      <entry key="S5" value="2.4270264206971395" />
+      <entry key="S10" value="3.032190885661654" />
+      <entry key="S30" value="3.6234435182369085" />
+      <entry key="S60" value="3.803863460583178" />
+      <entry key="M2" value="3.8998712582404003" />
+      <entry key="M5" value="3.959441741446779" />
+      <entry key="M10" value="3.9824501316284895" />
+      <entry key="M15" value="4.033281840438137" />
+      <entry key="M30" value="4.773818440323306" />
+      <entry key="H1" value="7.182186419804715" />
+      <entry key="H2" value="10.43355572985451" />
+      <entry key="H4" value="13.14563923666414" />
+      <entry key="D1" value="16.259991178744897" />
+      <entry key="W1" value="16.89161170851815" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
@@ -87,6 +148,7 @@
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/protixer/Documents/HTML-CSS-SoftUni&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -104,7 +166,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.23567.141" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
       </set>
     </attachedChunks>
   </component>
@@ -121,6 +183,9 @@
       <workItem from="1778524694656" duration="284000" />
       <workItem from="1778589416092" duration="2178000" />
       <workItem from="1778676612393" duration="2056000" />
+      <workItem from="1778843737290" duration="2515000" />
+      <workItem from="1779097543188" duration="983000" />
+      <workItem from="1779211016425" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="Learning HTML">
       <option name="closed" value="true" />
