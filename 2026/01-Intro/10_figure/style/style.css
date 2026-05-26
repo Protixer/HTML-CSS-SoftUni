@@ -1,0 +1,11 @@
+figure{
+    width: 25%;
+    height: 20rem;
+}
+figure img{
+    width: 100%;
+    height: 100%;
+}
+figcaption{
+    text-align: right;
+}
